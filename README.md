@@ -1,7 +1,7 @@
 # Neural Unification for Logic Reasoning over Language
 
-Implementation of the method presented in the paper: "Neural Unification for Logic Reasoning over Language
-"
+Implementation of the method presented in the paper: [Neural Unification for Logic Reasoning over Language](https://arxiv.org/abs/2109.08460)
+
 
 ## Introduction 
 
