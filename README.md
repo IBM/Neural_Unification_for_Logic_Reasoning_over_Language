@@ -2,6 +2,14 @@
 
 Implementation of the method presented in the paper: [Neural Unification for Logic Reasoning over Language](https://arxiv.org/abs/2109.08460)
 
+```
+@inproceedings{picco-etal-2021-neural-unification,
+    title = "Neural Unification for Logic Reasoning over Natural Language",
+    author = "Picco, Gabriele and Hoang, Thanh Lam and Sbodio, Marco Luca and Lopez, Vanessa",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    year = "2021",
+}
+```
 
 ## Introduction 
 
